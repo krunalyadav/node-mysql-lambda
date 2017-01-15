@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.4",
+    "express": "^4.14.0",
+    "mssql": "^3.3.0",
+    "mysql": "^2.12.0"
+  }
+}
